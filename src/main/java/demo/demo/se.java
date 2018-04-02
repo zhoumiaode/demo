@@ -1,4 +1,4 @@
 package demo.demo;
 
-public class segi {
+public class se {
 }
